@@ -19,7 +19,7 @@ is available jointly under the MIT License and the Beerware License. See
 To get started with the app, first clone the repo and `cd` into the directory:
 
 ```
-$ git clone https://github.com/mhartl/sample_app_6th_ed.git 
+$ git clone https://github.com/codyjwalker/sample_app.git 
 $ cd sample_app_6th_ed
 ```
 
@@ -55,7 +55,8 @@ The reference app repository includes a separate branch for each chapter in the 
 $ git checkout <branch name>
 ```
 
-A full list of branch names appears as follows:
+A full list of branch names appears as follows (Will become available as they
+    are implemented):
 
 ```
 static-pages
