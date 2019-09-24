@@ -19,7 +19,7 @@ through the end of Chapter 8.  The last branch that has been developed is
 
 All source code in the [Ruby on Rails Tutorial](https://www.railstutorial.org/)
 is available jointly under the MIT License and the Beerware License. See
-[LICENSE.md](LICENSE) for details.
+[LICENSE.md](LICENSE.md) for details.
 
 ## Getting Started
 
