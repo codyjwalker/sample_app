@@ -11,10 +11,9 @@ by [Michael Hartl](http://www.michaelhartl.com/).
 ## NOTE:
 
 This application is currently under developement!  If referring to the [*Ruby
-on Rails Tutorial*](https://www.railstutorial.org/)
-, it has been developed through the end of Chapter 8.  The
-last branch that has been developed is "basic-login" (if referring below to the
-full list of branch names).
+on Rails Tutorial*](https://www.railstutorial.org/), it has been developed
+through the end of Chapter 8.  The last branch that has been developed is
+"basic-login" (if referring below to the full list of branch names).
 
 ## License
 
