@@ -1,12 +1,19 @@
 # Ruby on Rails Tutorial sample application
 
-## Reference implementation
+## Reference Implementation
 
 This is the reference implementation of the sample application from 
 [*Ruby on Rails Tutorial:
 Learn Web Development with Rails*](https://www.railstutorial.org/)
-(6th Edition)
+(4th Edition)
 by [Michael Hartl](http://www.michaelhartl.com/).
+
+## NOTE:
+
+This application is currently under developement!  If referring to the [*Ruby
+on Rails Tutorial*], it has been developed through the end of Chapter 8.  The
+last branch that has been developed is "basic-login" (if referring below to the
+full list of branch names).
 
 ## License
 
@@ -14,7 +21,7 @@ All source code in the [Ruby on Rails Tutorial](https://www.railstutorial.org/)
 is available jointly under the MIT License and the Beerware License. See
 [LICENSE.md](LICENSE.md) for details.
 
-## Getting started
+## Getting Started
 
 To get started with the app, first clone the repo and `cd` into the directory:
 
@@ -80,7 +87,7 @@ $ rails db:migrate:reset
 $ rails db:seed
 ```
 
-## Help with the Rails Tutoiral
+## Help With the Rails Tutoiral
 
 Experience shows that comparing code with the reference app is often helpful for debugging errors and tracking down discrepancies. For additional assistance with any issues in the tutorial, please consult the [Rails Tutorial Help page](https://www.railstutorial.org/help). 
 
